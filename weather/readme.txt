@@ -1,0 +1,2 @@
+ this code fetches the current weather for New York City, converts the temperature to Fahrenheit, and sends a daily weather update to a specified phone number at 8:00 AM using Twilio.
+  It repeats this process every day.
